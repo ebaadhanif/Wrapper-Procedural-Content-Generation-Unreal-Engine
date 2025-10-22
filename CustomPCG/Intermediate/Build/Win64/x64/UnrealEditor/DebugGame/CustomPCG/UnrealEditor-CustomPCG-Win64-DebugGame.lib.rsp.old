@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CustomPCG-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Intermediate/Build/Win64/x64/PAFMetaVerseEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/CustomPCG/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CustomPCG/Module.CustomPCG.cpp.obj"
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/CustomPCG/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CustomPCG/BlueprintRegistery.cpp.obj"
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/CustomPCG/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CustomPCG/CustomPCG.cpp.obj"
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/CustomPCG/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CustomPCG/PCGCesiumHeightAdjusterSettings.cpp.obj"
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/CustomPCG/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CustomPCG/PCGContent.cpp.obj"
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/CustomPCG/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CustomPCG/PCGManager.cpp.obj"
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/CustomPCG/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CustomPCG/PCGPointContent.cpp.obj"
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/CustomPCG/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CustomPCG/PCGPolygonActor.cpp.obj"
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/CustomPCG/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CustomPCG/PCGPolygonContent.cpp.obj"
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/CustomPCG/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CustomPCG/Default.rc2.res"
+/OUT:"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/CustomPCG/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/CustomPCG/UnrealEditor-CustomPCG-Win64-DebugGame.lib"

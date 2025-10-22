@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal projects\\migrating to 5.6\\pafmetaverse\\plugins\\custompcg\\source\\custompcg\\private\\blueprintregistery.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal projects\\migrating to 5.6\\pafmetaverse\\intermediate\\build\\win64\\x64\\pafmetaverseeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal projects\\migrating to 5.6\\pafmetaverse\\plugins\\custompcg\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\custompcg\\definitions.custompcg.h",
+            "c:\\unreal projects\\migrating to 5.6\\pafmetaverse\\plugins\\custompcg\\source\\custompcg\\public\\blueprintregistery.h",
+            "c:\\unreal projects\\migrating to 5.6\\pafmetaverse\\plugins\\custompcg\\intermediate\\build\\win64\\unrealeditor\\inc\\custompcg\\uht\\blueprintregistery.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

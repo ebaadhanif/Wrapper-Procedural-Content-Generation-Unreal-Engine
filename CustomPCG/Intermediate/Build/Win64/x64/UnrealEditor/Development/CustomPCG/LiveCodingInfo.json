@@ -1,0 +1,24 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CustomPCG.cpp.obj": [
+			"BlueprintRegistery.gen.cpp.obj",
+			"CustomPCG.init.gen.cpp.obj",
+			"GISShapeTypes.gen.cpp.obj",
+			"PCGCesiumHeightAdjusterSettings.gen.cpp.obj",
+			"PCGContent.gen.cpp.obj",
+			"PCGManager.gen.cpp.obj",
+			"PCGPointContent.gen.cpp.obj",
+			"PCGPolygonActor.gen.cpp.obj",
+			"PCGPolygonContent.gen.cpp.obj",
+			"BlueprintRegistery.cpp.obj",
+			"CustomPCG.cpp.obj",
+			"PCGCesiumHeightAdjusterSettings.cpp.obj",
+			"PCGContent.cpp.obj",
+			"PCGManager.cpp.obj",
+			"PCGPointContent.cpp.obj",
+			"PCGPolygonActor.cpp.obj",
+			"PCGPolygonContent.cpp.obj"
+		]
+	}
+}
